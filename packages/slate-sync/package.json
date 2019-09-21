@@ -1,6 +1,6 @@
 {
   "name": "@shopify/slate-sync",
-  "version": "1.0.0-beta.16+hotfix-themekit-version",
+  "version": "1.0.0-beta.16.hotfix1",
   "description": "Slate's Shopify API client which handles all theme development requests",
   "repository": "https://github.com/Shopify/slate/tree/1.x/packages/slate-sync",
   "license": "MIT",
